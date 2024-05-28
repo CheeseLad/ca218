@@ -1,0 +1,11 @@
+.vscode
+*.txt
+*.mp4
+*.gdoc
+*.gsheet
+*.ini
+*.xlsx
+*.docx
+*.drp
+*.mov
+*.pdf
