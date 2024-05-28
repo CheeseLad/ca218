@@ -1,0 +1,1 @@
+select clientNo, fName, lName, telNo from client where maxRent <= 500 ORDER BY fName DESC
